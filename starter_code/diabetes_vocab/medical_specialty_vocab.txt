@@ -1,0 +1,8 @@
+00
+Surgery-General
+Cardiology
+InternalMedicine
+Family/GeneralPractice
+ObstetricsandGynecology
+Pediatrics
+Psychiatry
